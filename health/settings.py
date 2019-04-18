@@ -25,7 +25,7 @@ SECRET_KEY = 'y-(!muf5(&bx_h+%0su86()*dcm5tcazba(*#o%bs2a^saay_!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['arifcse10.pythonanywhere.com']
+ALLOWED_HOSTS = ['arifcse10.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
